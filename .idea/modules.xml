@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mappevurdering.iml" filepath="$PROJECT_DIR$/.idea/Mappevurdering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scr/Scr.iml" filepath="$PROJECT_DIR$/Scr/Scr.iml" />
+    </modules>
+  </component>
+</project>
